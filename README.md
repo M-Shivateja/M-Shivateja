@@ -1,5 +1,6 @@
 # Hi 👋, I’m Shivateja
-I’m a passionate full-stack developer from India, focused on creating dynamic and user-friendly web applications.<br><br>🌟 Currently working on: Front-End development<br>📚 Currently learning: Redux and TypeScript<br>💬 Ask me about: Anything MERN-related!<br>🌱 Fun fact: I love learning something new with every project I work on.
+I’m a passionate full-stack developer from India, focused on creating dynamic and user-friendly web applications.<br><br>🌟 Currently working on: Front-End development<br>📚 Currently learning: Redux and TypeScript<br>💬 Ask me about: Anything MERN-related!<br>🌱 
+I love learning something new with every project I work on.
 
 
 # 🌐 Socials
