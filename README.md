@@ -13,6 +13,6 @@ Hi 👋, I’m Shivateja<br>I’m a passionate full-stack developer from India, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Shivateja&theme=default_repocard&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=M-Shivateja&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=M-Shivateja&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
